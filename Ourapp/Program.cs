@@ -10,7 +10,7 @@ namespace Ourapp
     {
         static void Main(string[] args)
         {
-            Console.Out.WriteLine("Hello Sai");
+            Console.Out.WriteLine("Conflict 2");
 
         }
     }
